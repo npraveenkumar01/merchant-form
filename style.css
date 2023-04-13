@@ -1,0 +1,103 @@
+
+.form-title {
+    text-align: center;
+    font-family: sans-serif;
+    margin-top:50px;
+    margin-bottom: 100px;
+    color:transparent;
+    background-image:url(https://media.giphy.com/media/20EECFqvfc7XBtEWav/giphy.gif);
+    background-position: center;
+    -webkit-background-clip: text;
+}
+.row{
+    width: 100%;
+}
+.column{
+    /* margin-bottom: 10rem/ */
+        text-align: center;
+        border: 3px;
+        float:left;
+        width: 33.33%;
+      
+}
+.column1{
+    float: left;
+    margin-left: 20rem;
+    margin-top:10rem;
+
+     /* justify-content: space-between; */
+     /* display: flex */
+}
+.column2{
+    margin-top: 10rem;
+        text-align: center;
+        border: 3px;
+        float:left;
+        width: 33.33%;
+
+}
+.column3{
+     position: absolute; 
+    float: left;
+    margin-left: 20rem;
+    margin-top:30rem;
+    border-style:solid;
+}
+.column4{
+    position:absolute;
+    float:left;
+    margin-left:60rem;
+    margin-top:30rem;
+    border-style:solid;
+}
+.column5{
+    position:absolute;
+    float:left;
+    margin-left:20rem;
+    margin-top:42rem;
+    
+}
+.column6{
+    position:absolute;
+    float:left;
+    margin-left:60rem;
+    margin-top:42rem;
+}
+.column7 {
+    
+    position:absolute;
+    float:right;
+    margin-left:20rem;
+    margin-top:50rem;
+    border-style: solid;
+}
+.column7 :hover{
+    background-color: blue;
+}
+.column8{
+    position:absolute;
+    float:right;
+    margin-left:60rem;
+    margin-top:50rem;
+    border-style: solid;
+}
+body{
+    background-color: azure;
+
+}
+.column10{
+    margin-top: 10rem;
+        text-align: center;
+        border: 3px;
+        float:left;
+        width: 33.33%;
+        display:block;
+        
+}
+.size{
+       height:100px;
+       
+}
+.size1{
+    height: 150px;
+}
